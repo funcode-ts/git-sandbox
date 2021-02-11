@@ -1,1 +1,2 @@
 adding lines for git fetch
+adding on the same line from git-practice
