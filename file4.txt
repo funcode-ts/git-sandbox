@@ -1,2 +1,2 @@
 git file to practice amend. 
-another line for amend
+deleted this line for git ammend. 
